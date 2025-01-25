@@ -91,13 +91,13 @@ To train the model:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/unet-brain-tumor-segmentation.git
+   git clone https://github.com/Real-J/unet-brain-tumor-segmentation.git
    cd unet-brain-tumor-segmentation
    ```
 
 2. Run the training script:
    ```bash
-   python train.py
+   python unet.py
    ```
 
 ## Results
